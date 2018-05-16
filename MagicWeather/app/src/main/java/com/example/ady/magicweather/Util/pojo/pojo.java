@@ -1,4 +1,4 @@
-package com.example.ady.magicweather.Util.view.pojo;
+package com.example.ady.magicweather.Util.pojo;
 
 /**
  * Created by Ady on 5/13/2018.

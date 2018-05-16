@@ -1,8 +1,10 @@
-package com.example.ady.magicweather.Util;
+package com.example.ady.magicweather.Util.view;
 
 /**
  * Created by Ady on 5/13/2018.
  */
 
-public class BasePresenter {
+public interface BasePresenter <V extends BaseView> {
+    void attachView (V view);
+    void detachView();
 }

@@ -1,5 +1,5 @@
 
-package com.example;
+package com.example.ady.magicweather.Util.pojo;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
